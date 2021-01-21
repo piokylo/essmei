@@ -251,6 +251,10 @@ margin-bottom: 20px;
     margin-right: 15px;
 
 }
+.products nav a:first-child{
+
+    border: none;
+}
 .products nav a:hover {
 
     border-color: #ebeb14 ;
@@ -368,6 +372,7 @@ margin-bottom: 20px;
     }
     .product {
         width: 100%;
+        margin-bottom: 20px;
     }
     nav a {
         display: table ;
